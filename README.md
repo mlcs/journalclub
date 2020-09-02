@@ -5,3 +5,4 @@ This repo contains info and resources related to the papers and topics discussed
 ## TODO
 - [ ] add link to MLCS website
 - [ ] add notes, related papers, etc
+- [ ] add source and copyrights
